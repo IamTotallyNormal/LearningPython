@@ -1,4 +1,4 @@
-# WAP to find Fibonacci Series upto n terms
+# WAP to find fibonacci series upto n terms
 
 n = int(input("Enter number of terms : "))
 n1 = 0
